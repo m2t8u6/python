@@ -4,4 +4,4 @@ print('Concatenação:', concatenacao)
 
 # Repetição   utilizando '*'
 letra = 'A' * 10
-print('>>',)
+print('>>', letra)
