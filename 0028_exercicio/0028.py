@@ -17,7 +17,7 @@ print(f'Seu nome invertido é: {nome[::-1]}\n')
 if ' ' in nome:
     print('O nome contem espaço.')
 else:
-    print('O nome não Stem espaço.')
+    print('O nome não tem espaço.')
 
 print(f'\nSeu nome tem {qnt} caracteres.')
 print(f'\nA primeira letra do seu nome é: {nome[0]}')
